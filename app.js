@@ -1445,7 +1445,7 @@ function buildStartingBracketImage(bgImg, qrAppImg, qrDonateImg) {
   drawBullets([
     "Use a time stamp to help the official scorers",
     "Use the app to draft tweets and track your run",
-    "Create a fundraising page to support Give Kids the World Village and include the link in your tweets. Share to family and friends!",
+    "Create a fundraising page to support Give Kids the World Village, include the link in your tweets!",
     "Meet in the Hub at end of night for group photo!"
   ]);
 
@@ -1455,9 +1455,9 @@ function buildStartingBracketImage(bgImg, qrAppImg, qrDonateImg) {
     "Points in later rounds = Round 1 points multiplied by round number",
     "Main St Entertainment: Each of these can be done once: 1) Main St Vehicles, 2) Dapper Dans, 3) FoF Parade, 4) Starlight Parade, 5) Happily Ever After, 6) Cavalcade. Take selfies at beginning and end of attraction/show. Must watch from Main St!",
     "No Early Entry (but okay to ride Main St Vehicles prior to park open)",
-    "LL Multi Pass and LL Single Pass are allowed; no LLs carried over from a previous day",
-    "LL Premier Pass, VIP tours, etc. are not allowed!",
+    "LL Multi Pass and LL Single Pass are allowed; no LLs carried over from a previous day, no Premier Pass or VIP tours!",
     "A multi-experience (anytime) pass must be used for its original ride",
+    "Follow @RideEvery and watch for Cinderella Story bonus opportunities!",
     "Prizes for top finishers! Rankings will be based on 1) Completing your bracket (all 31 matchups), 2) Total points, 3) Total time"
   ]);
 
