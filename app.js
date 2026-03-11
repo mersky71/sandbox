@@ -1457,7 +1457,8 @@ function buildStartingBracketImage(bgImg, qrAppImg, qrDonateImg) {
     "No Early Entry (but okay to ride Main St Vehicles prior to park open)",
     "LL Multi Pass and LL Single Pass are allowed; no LLs carried over from a previous day",
     "LL Premier Pass, VIP tours, etc. are not allowed!",
-    "A multi-experience (anytime) pass must be used for its original ride"
+    "A multi-experience (anytime) pass must be used for its original ride",
+    "Prizes for top finishers! Rankings will be based on 1) Completing your bracket (all 31 matchups), 2) Total points, 3) Total time"
   ]);
 
 return canvas.toDataURL("image/png");
